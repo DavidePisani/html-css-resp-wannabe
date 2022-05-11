@@ -139,8 +139,6 @@ img {
          
 }
 
-
-
                     /* MOBILE */
  @media screen and (max-width: 480px){
     .container{
@@ -179,7 +177,7 @@ img {
     }
 
     .why-us .col-right {
-        width: 100%;
+        width: 100%; 
     }
 
     .steps{
